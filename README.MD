@@ -1,6 +1,6 @@
 # Analysis of Degen Holiday Pandas new traits (with pandas)
 
-###WHY?
+### WHY?
 [pit tweeted](https://twitter.com/pit_the_panda/status/1474111743672696838)
 
 ### Who got new fits? 
